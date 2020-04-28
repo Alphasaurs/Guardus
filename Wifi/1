@@ -1,0 +1,3 @@
+Show all hidden password in computer ?
+netsh wlan show profile
+netsh export profile folder=c:\ key=clear
